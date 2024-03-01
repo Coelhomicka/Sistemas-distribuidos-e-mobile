@@ -1,0 +1,10 @@
+*  SISTEMA OPERACIONAL DE REDE 
+
+  KERNEL -  nucleo do sistema operacional 
+  ____________
+  MIDDLEWARE - um software  que diferentes aplicações usam para se comunicar entre si (exemplo, Servidores de aplicaçoes java ) 
+  ____________
+  SISTEMAS DISTRBUIDOS - propriedades 
+  um subconjunto de seus componentes encontram-se geograficamente dispersos
+  ____________
+  
